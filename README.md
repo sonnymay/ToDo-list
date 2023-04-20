@@ -30,6 +30,7 @@ How to Use
 6. Use the filter buttons at the top of the page to display tasks based on their status (All, Active, Completed).
 
 Contributing
+
 If you'd like to contribute to the development of ToDo List, please follow these steps:
 
 1. Fork the repository: https://github.com/sonnymay/ToDo-list
